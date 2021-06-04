@@ -1,0 +1,7 @@
+"Ibuprofen (Advil)"
+"Acetaminophen (Tylenol)"
+"Loratadine (Claritin)"
+"Dextromethorphan (Robitussin)"
+"Pseudophedrine (Sudafed)"
+"Naloxon (Narcan)"
+"Ranitidine (Zantac)"
